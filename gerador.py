@@ -43,6 +43,8 @@ for letra in chave:
         senha = senha + "27"
     elif letra in "Tt":
         senha = senha + "28"
+    elif letra in + "Uu":
+        senha = senha + "&"
     elif letra in "Vv":
         senha = senha + "29"
     elif letra in "Ww":
